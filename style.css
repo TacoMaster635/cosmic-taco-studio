@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     background: #0d1020;
     color: white;
-    min-height 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
@@ -80,7 +80,7 @@ main {
 }
 
 footer {
-    display: felx;
+    display: flex;
     justify-content: center;
     text-align: center;
     padding: 20px;
