@@ -80,6 +80,8 @@ main {
 }
 
 footer {
+    display: felx;
+    justify-content: center;
     text-align: center;
     padding: 20px;
     background: #161b33;
