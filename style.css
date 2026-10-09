@@ -85,7 +85,7 @@ main {
     flex: 1;
 }
 
-.footer-top{
+footer {
     display: flex;
     justify-content: center;
     text-align: center;
